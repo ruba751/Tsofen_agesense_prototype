@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sprint</string>
+    <string name="login">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="search">Search account...</string>
+    <string name="welcome">Welcome </string>
+    <string name="accounts_faults_noti_num"><b>17</b></string>
+    <string name="healthy_acc_noti_num"><b>10</b></string>
+    <string name="foult_devices_noti_num"><b>15</b></string>
+    <string name="healthy_device_noti_num"><b>25</b></string>
+    <string name="healthcare_report_noti_num"><b>112</b></string>
+    <string name="unread_noti_num"><b>19</b></string>
+</resources>
